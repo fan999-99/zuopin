@@ -17,7 +17,7 @@
 | 印刷间 `images/posters/01.jpg`–`06.jpg` | 怪物爵士；绝对枫糖酒；吃醋；榴莲系列（月饼、鲜榴莲、冻干榴莲） |
 | 画室 `images/illustration/01.jpg`–`19.jpg` | 大安全 大应急（3）；京粹时序（关羽、刘备、张飞）；久久有你（赏菊、登高、敬老）；百日英雄历（3）；方言重庆（雾都、安逸）；元素诀人物（火、金、土、水、木） |
 | 摄影棚 | （空） |
-| 游戏厅 | Bose耳机（`videos/bose.mp4` + `images/interactive/bose-poster.jpg`）；元素诀（封面是线上页面，点开可去 https://fan999-99.github.io/EC/ 在线玩） |
+| 游戏厅 | Bose耳机（`videos/bose.mp4` + `images/interactive/bose-poster.jpg`）；元素诀 · 七灯决战（宣传视频 `videos/yuansu-jue.mp4` + 封面 `images/interactive/yuansujue-video-poster.jpg`；「打开看看」→ https://fan999-99.github.io/ECwangzhan/ ，「玩玩互动」→ https://fan999-99.github.io/EC/ ） |
 
 **一个系列 = 一件作品**：房间里只放系列第一张当封面（后面垫着两层纸，角上写「×3」），点开后滚轮一张张看。系列里每一张的小标题（比如「久久有你 · 赏菊踏秋」）是对照画面和说明补上的，文档本身只写了系列总说明。
 
